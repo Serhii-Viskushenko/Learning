@@ -3,6 +3,7 @@
 - [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/)
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
 - [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
+- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 - [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/)
 
 ## SQL and Data Warehousing Concepts
