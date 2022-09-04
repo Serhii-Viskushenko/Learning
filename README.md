@@ -1,6 +1,7 @@
 # My learning path
 
 ## General
+- [ ] [Data Warehouse Complete Tutorial - SQL + SSIS + SSAS + Power BI](https://www.youtube.com/watch?v=eNxbMwUGl1g&ab_channel=AnalyticswithNags)
 - [ ] [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/)
 - [ ] [Data Engineering Essentials using SQL, Python, and PySpark](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)
 
