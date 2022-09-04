@@ -1,6 +1,11 @@
 # My learning path
-## Programming & Scripting
+
+## General
 - [ ] [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/)
+- [ ] [Data Engineering Essentials using SQL, Python, and PySpark](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)
+
+
+## Programming & Scripting
 - [ ] [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
 - [ ] [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
 - [ ] [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
