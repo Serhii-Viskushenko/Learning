@@ -13,7 +13,7 @@
 - [ ] [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/)
 
 ## SQL and Data Warehousing Concepts
-- [ ] [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc&ab_channel=freeCodeCamp.org)
+- [x] [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc&ab_channel=freeCodeCamp.org)
 - [ ] [Data Warehouse Fundamentals for Beginners](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/)
 - [ ] [Data Warehouse Concepts: Basic to Advanced concepts](https://www.udemy.com/course/master-datawarehouse-concepts-step-by-step-from-scratch/)
 - [ ] [Snowflake Zero to Hero Masterclass(Core+SQL+API+Visual)](https://www.udemy.com/course/snowflake-zero-to-hero-masterclass/)
