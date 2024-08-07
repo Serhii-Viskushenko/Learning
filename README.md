@@ -47,3 +47,8 @@
 ## Machine Learning (Good to Have, but not mandatory)
 - [ ] [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
 - [ ] [DP-100: A-Z Machine Learning using Azure Machine Learning](https://www.udemy.com/course/machine-learning-using-azureml/)
+
+## Power BI
+### Kagl links for practice
+- [ ] [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [ ] [HR Analytics](https://www.kaggle.com/datasets/monisamir/hr-analytics)
